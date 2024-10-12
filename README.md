@@ -12,6 +12,8 @@
 ![JavaScript Badge](https://badgen.net/badge/Code/JavaScript/yellow)
 
 
+![GitHub Snake Light](https://github.com/your-username/olimovalibek/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
