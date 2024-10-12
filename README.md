@@ -8,6 +8,12 @@
 
 ![React Badge](https://badgen.net/badge/Code/React/blue)
 ![JavaScript Badge](https://badgen.net/badge/Code/JavaScript/yellow)
+![CSS Badge](https://badgen.net/badge/Code/CSS/blue) 
+![HTML Badge](https://badgen.net/badge/Code/HTML/red) 
+![Tailwind CSS Badge](https://badgen.net/badge/Style/Tailwind%20CSS/blue) 
+![TypeScript Badge](https://badgen.net/badge/Code/TypeScript/blue) 
+![Next.js Badge](https://badgen.net/badge/Code/Next.js/black)
+
 
 
 
