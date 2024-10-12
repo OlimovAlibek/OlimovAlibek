@@ -5,6 +5,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=OlimovAlibek&theme=highcontrast)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=OlimovAlibek&color=blue)
 [![Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OlimovAlibek)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=OlimovAlibek.your-repo-name&style=for-the-badge)
+
 
 
 
