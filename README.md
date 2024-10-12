@@ -8,6 +8,10 @@
 ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=OlimovAlibek.OlimovAlibek&style=for-the-badge)
 [![trophy](https://github-profile-trophy.vercel.app/?username=OlimovAlibek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![React Badge](https://badgen.net/badge/Code/React/blue)
+![JavaScript Badge](https://badgen.net/badge/Code/JavaScript/yellow)
+
+
 
 
 
