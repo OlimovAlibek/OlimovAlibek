@@ -2,6 +2,7 @@
 
 ![React Badge](https://badgen.net/badge/Code/React/blue) 
 ![JavaScript Badge](https://badgen.net/badge/Code/JavaScript/yellow) 
+![Django Badge](https://badgen.net/badge/Code/Python/green)
 ![CSS Badge](https://badgen.net/badge/Code/CSS/blue) 
 ![HTML Badge](https://badgen.net/badge/Code/HTML/red) 
 ![Tailwind CSS Badge](https://badgen.net/badge/Style/Tailwind%20CSS/blue) 
