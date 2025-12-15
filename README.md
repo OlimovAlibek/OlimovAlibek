@@ -1,8 +1,7 @@
 ## Hi there, it is ALI 👋
 
 ![React Badge](https://badgen.net/badge/Code/React/blue)
-![NodeJS Badge]
-(https://badgen.net/badge/Code/Node/red)
+![NodeJS Badge](https://badgen.net/badge/Code/Node/red)
 ![JavaScript Badge](https://badgen.net/badge/Code/JavaScript/yellow) 
 ![Django Badge](https://badgen.net/badge/Code/Python/green)
 ![CSS Badge](https://badgen.net/badge/Code/CSS/blue) 
