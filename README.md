@@ -2,7 +2,7 @@
 
 ![React Badge](https://badgen.net/badge/Code/React/blue)
 ![Node Badge]
-(https://badgen.net/badge/Code/Node)
+(https://badgen.net/badge/Code/Node/red)
 ![JavaScript Badge](https://badgen.net/badge/Code/JavaScript/yellow) 
 ![Django Badge](https://badgen.net/badge/Code/Python/green)
 ![CSS Badge](https://badgen.net/badge/Code/CSS/blue) 
